@@ -2,11 +2,15 @@
 Android studio （Mac）最最最常用的快捷键 !
 ### Android Studio 开发最常用到的快捷键
 
-Android Studio日常开发常用快捷键.
-快捷键版本: Mac OS X 10.5+
-<br>
+> 前言 
 
-####搜索查看类
+不管是生活还是日常开发中，工具永远是提高效率的唯一途径之一。 那么了解工具怎么使用是一件必须的事情。这篇文章主是要我自己码农过程中使用的Android Studio 开发工具一些快捷键的使用做一个总汇。
+
+`Android`、`Tools`、`IDE`、`快捷键版本: Mac OS X 10.11+`
+
+
+> 
+##### 搜索查看类
 
 | 用途   | Mac 快捷键 |
 | -----------   | :-----: |
@@ -29,9 +33,9 @@ Android Studio日常开发常用快捷键.
 |查找Action   |Command+Shift+A|
 |显示文件在项目中的位置|Option+F1+Enter|
 |复制当前文件的路径|Command+Shift+C|
-<br>
 
-####编辑类
+>
+##### 编辑类 
 | 用途   | Mac 快捷键 |
 | -----------   | :-----: |
 | 复制           |Command +C |
@@ -44,8 +48,8 @@ Android Studio日常开发常用快捷键.
 | 把代码包起来: try-catch等|Command +Option+T |
 | 查看方法的参数信息    |Command +P |
 
-<br>
-####生成
+> 
+##### 生成
 | 用途   | Mac 快捷键 |
 | -----------   | :-----: |
 | 生成方法           |Command +N |
@@ -53,24 +57,24 @@ Android Studio日常开发常用快捷键.
 | Override方法      |Control+O |
 | 实现(implement)方法     |Control+L |
 
-<br>
-####自动补全
+>
+##### 自动补全
 | 用途   | Mac 快捷键 |
 | -----------   | :-----: |
 | 加import语句     |Option+Enter |
 | 显示Warning信息并采用快捷修复    |Option+Enter |
-<br>
-###重构
+
+>
+##### 重构
 | 用途   | Mac 快捷键 |
-| -----------   | :-----: |
+| -----------  | :-----: |
 | 重命名          |Shift +F6|
 | 更改签名(重构方法)    |Command +F6|
 |提取方法M,变量V,字段F,常量C,参数P|Command +Option + M,V,F,C,P|
 |内联     |Command+Option+N|
 
-
-<br>
-### 选择，移动
+>
+##### 选择，移动
 
 | 用途   | Mac 快捷键 |
 | -----------   | :-----: |
@@ -81,22 +85,24 @@ Android Studio日常开发常用快捷键.
 | 返回上/下一次光标所在的地方  |Command+ Option + 左右方向|
 |移动当前行   |Command+ Option + 上下方向|
 
-<br>
-###格式化
+>
+##### 格式化
 
 | 用途   | Mac 快捷键 |
 | -----------   | :-----: |
 | 格式化代码          |Command +Option+L|
 | 优化imports          |Command +Option+L|
-<br>
-### 注释 
+
+
+>
+##### 注释 
 | 用途   | Mac 快捷键 |
 | -----------   | :-----: |
 | 行注释          |Command +/|
 | 块注释          |Command +Option +/|
 
-<br>
-### 运行调试类
+>
+##### 运行调试类
 
 | 用途   | Mac 快捷键 |
 | -----------   | :-----: |
@@ -110,16 +116,17 @@ Android Studio日常开发常用快捷键.
 | 看表达式    |Option+F8|
 | Resume    |Option+Command +F8|
 
-<br>
-### 测试类 
+>
+##### 测试类 
 
 | 用途   | Mac 快捷键 |
 | -----------   | :-----: |
 | 生成或打开测试类   |Command+Shift+T|
 | 运行测试     |Ctrl +Shfit +R|
 | 调试测试        |Ctrl+ Shift +D|
-<br>
-### 版本控制类
+
+>
+##### 版本控制类
 
 | 用途   | Mac 快捷键 |
 | -----------   | :-----: |
@@ -128,8 +135,8 @@ Android Studio日常开发常用快捷键.
 | 下一个Diff        |F7|
 | 在Diff中打开文件        |F4|
 
-<br>
-###窗口类 
+>
+#####  窗口类 
 
 | 用途   | Mac 快捷键 |
 | -----------   | :-----: |
@@ -139,8 +146,10 @@ Android Studio日常开发常用快捷键.
 | 打开项目结构窗口       |Command+;|
 | 快速切换scheme       |Ctrl+`|
 
-<br>
-###Resources
+>
+
+##### Resources
 + [官方文档](https://developer.android.com/studio/intro/keyboard-shortcuts)
 + [The powerful Android Studio](http://saulmm.github.io/the-powerful-android-studio)
+
 
